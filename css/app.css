@@ -1,0 +1,9 @@
+.images {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.images .image {
+    border-bottom: 1px solid #f3f3f3;
+    padding: 25px 0;
+}
+
